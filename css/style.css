@@ -64,6 +64,9 @@ body::-webkit-scrollbar-thumb{
 .aries_padding_left{
 	padding-left:10px;
 }
+.mt-10{
+	margin-top: 10px;
+}
 /*---------- Custom Css Start -------*/
 /*---------- btn Css Start -------*/
 .hs_btn_wrapper li a {
